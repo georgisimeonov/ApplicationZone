@@ -1,3 +1,10 @@
+*******************************************************************************************
+*
+* Creator G Simeonov
+* Catenamedia 2017
+* Please read LICENSE file
+*
+*******************************************************************************************
 This is a simple slack bot application, thet send "Message of the day" post in slack channel
 The source of the messages is RSS from URL: https://www.sans.org/tip-of-the-day/rss
 Python modules included are:
@@ -12,4 +19,5 @@ app_logging - The script applied in the /bin project folder - Serves as a log pa
 in user defined path and file
 
 For more information, concerning SLAC API - https://api.slack.com
+
 
